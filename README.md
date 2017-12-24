@@ -1,4 +1,6 @@
-![Image](https://image.prntscr.com/image/0xbhU2IKSOqPKGzBoj050w.png)
+<p align="center">
+  <img alt="Example Image" src="https://image.prntscr.com/image/0xbhU2IKSOqPKGzBoj050w.png">
+</p>
 
 # loadingbar
 Include ini memudahkan kita untuk menampilkan loading bar untuk membuat server lebih menarik. Cara kerja dari include ini, bar akan berkurang setiap detiknya, jika mencapai nilai 0, maka kita dapat melanjutkan ke fungsi yang akan di gunakan. Jika masih kurang paham, berikut penjelasannya.
