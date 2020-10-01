@@ -1,6 +1,7 @@
 /*
 	Custom loading bar example script.
 	Dibuat oleh agus syahputra at 24/12/2017 - 12:33.
+	Fungsi: Menampilkan loading bar
 */
 
 #include <a_samp>
