@@ -16,7 +16,7 @@ Respond function:
 forward your_function(playerid);
 public your_function(playerid) 
 {
-	//add here
+	
 	return 1;
 }
 
